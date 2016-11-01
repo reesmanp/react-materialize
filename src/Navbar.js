@@ -34,7 +34,7 @@ class Navbar extends Component {
 
     let classes = {
       right: right,
-      'hide-on-med-and-down': true
+      'hide-on-small-only': true
     };
 
     let brandClasses = {
